@@ -1,0 +1,15 @@
+.circledimages{
+    width: 270px;
+    height: 350px;
+    border-radius: 50%;
+
+}
+body {
+    background-color: white;
+}
+h1 {
+    text-align: center;
+}
+h1 {
+    color: black;
+}
